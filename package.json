@@ -1,0 +1,19 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "a manager for tea",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "cool rjn",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
